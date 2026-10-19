@@ -65,9 +65,9 @@ Subir a GitHub
 ```bash
 git init
 git add .
-git commit -m "Implementa sistema de mesa de partes en Python"
+git commit -m "Primer commit, subir a Github"
 git branch -M main
-git remote add origin https://github.com/TU-USUARIO/TU-REPOSITORIO.git
+git remote add origin https://github.com/crhis-git/REPOSITORIO-FERRETERIA.git
 git push -u origin main
 ```
 Si ya clonaste un repositorio, no vuelvas a ejecutar `git init` ni `git remote add origin`; revisa el remoto con `git remote -v`.
