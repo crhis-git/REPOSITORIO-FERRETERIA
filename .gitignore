@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Base de datos local (se genera al ejecutar)
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Pruebas y herramientas
+.coverage
+.pytest_cache/
+.mypy_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
